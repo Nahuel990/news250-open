@@ -14,13 +14,6 @@ This repo contains **code snippets**, scripts, and utilities we use for scraping
 
 ---
 
-## 📂 What's Inside
-
-- `/scrapers/` → Example scrapers for different news sources.
-- `/nlp/` → Models and scripts for summarization, classification, and sentiment analysis.
-- `/utils/` → Tools for data cleaning, normalization, and formatting.
-- `/examples/` → Practical use cases with sample datasets.
-
 > **Note:** We do **not** publish copyrighted or proprietary data — only examples and code.
 
 ---
