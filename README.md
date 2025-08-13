@@ -21,12 +21,3 @@ This repo contains **code snippets**, scripts, and utilities we use for scraping
 ## ⚙️ Requirements
 
 - **Python 3.10+**
-- [Poetry](https://python-poetry.org/) or `pip`
-- A [Hugging Face](https://huggingface.co/) account or a compatible local model
-
-Quick install:
-
-```bash
-git clone https://github.com/YOUR-USER/news250-open.git
-cd news250-open
-pip install -r requirements.txt
