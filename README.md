@@ -8,8 +8,8 @@ This repo contains **code snippets**, scripts, and utilities we use for scraping
 
 ## 🚀 Mission
 
-- Help devs and enthusiasts build their own **AI-powered news summarization systems**.
-- Share techniques for **web scraping**, **NLP**, and **duplicate detection**.
+- Help devs and enthusiasts build their own **AI-powered systems**.
+- Share techniques.
 - Foster open, collaborative development.
 
 ---
